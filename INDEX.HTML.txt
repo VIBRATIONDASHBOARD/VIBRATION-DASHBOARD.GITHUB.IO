@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vibration Dashboard</title>
+</head>
+<body>
+  <h1>Live Vibration Dashboard</h1>
+  <iframe 
+    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQkENj_p5HAGe72_mmNpAdkbLPN0NhHZdn5Dtdaluekx-4Q-NhBpNJx3RpTWIpgs2BqBf4THyOEsd30/pubhtml?gid=1812224934&amp;single=true&amp;widget=true&amp;headers=false"></iframe>" 
+    width="1000" 
+    height="600">
+  </iframe>
+</body>
+</html>
